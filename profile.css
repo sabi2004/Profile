@@ -1,0 +1,73 @@
+nav{
+    background-color: aqua;
+  }
+  nav ul{
+    display: flex;
+    justify-content: space-between;
+  }
+  ul{
+    list-style: none;
+  }
+  li{
+    margin-left: 20px;
+  }
+  div{
+    background-color:coral;
+  }  
+  div h1{
+    display: flex;
+    justify-content: center;
+    text-align: right;
+  }
+  header ul{
+    display: flex;
+    justify-content: space-between;
+  }
+  article{
+    background-color: black;
+    height: 250px;
+  }
+  h4{
+    color:azure;
+    display:flex;
+    justify-content: center;
+  }
+  h5{
+    color: blanchedalmond;
+    display:flex;
+    justify-content: center;
+  }
+  hr{
+    width:300px;
+  }
+  article ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  article li{
+     background-color: aliceblue;
+     color:crimson;
+     width:90px;
+     height:90px;
+  }
+  h6{
+    font-style: italic;
+  }
+  footer{
+    background-color: darkgreen;
+    height: 250px;
+  }
+  footer ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  footer li{
+    background-color: aqua;
+    color: blue;
+    height: 90px;
+    width: 140px;
+  }
+  .age{
+    display:flex;
+    justify-content: center;
+  }
